@@ -69,8 +69,6 @@ xp: 50
 - Error message answer 2
 - Error message answer 3
 
----
-
 ## Insert exercise title here
 
 ```yaml
@@ -81,3 +79,6 @@ xp: 50
 
 `@projector_key`
 7d3f18aac12dca8313ef85118d2c9678
+
+- asdfasdf asdfsadf
+
